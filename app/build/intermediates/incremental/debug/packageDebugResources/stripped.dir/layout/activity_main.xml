@@ -1,0 +1,207 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_gradient"
+    android:clipToPadding="false"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="20dp"
+        android:paddingTop="28dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="36dp">
+
+        <ImageView
+            android:layout_width="82dp"
+            android:layout_height="82dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="Logótipo Galaxy DeX Toolkit"
+            android:scaleType="centerCrop"
+            android:src="@drawable/app_logo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:gravity="center"
+            android:text="Galaxy DeX Toolkit"
+            android:textColor="@color/text_primary"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:gravity="center"
+            android:text="Hidden DeX Research  •  v3.0"
+            android:textColor="@color/brand_light"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/card_bg"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ESTADO DEX"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvDevice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/text_primary"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvSystem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/text_secondary"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tvCompatibility"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:textColor="@color/success"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvDisplayStatus"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/status_pill"
+                    android:gravity="center"
+                    android:text="Monitor: a verificar"
+                    android:textColor="@color/text_primary"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/tvInputStatus"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/status_pill"
+                    android:gravity="center"
+                    android:text="Entrada: a verificar"
+                    android:textColor="@color/text_primary"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="CONTROLOS DEX"
+            android:textColor="@color/text_secondary"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/btnDesktop"
+            style="@style/DexActionCard"
+            android:layout_marginTop="10dp">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_desktop" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Desktop DeX" />
+                <TextView style="@style/DexCardSubtitle" android:text="Iniciar o desktop e abrir os controlos específicos." />
+                <TextView style="@style/DexCardState" android:text="PRONTO" />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/btnTouchpad" style="@style/DexActionCard">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_touchpad" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Touchpad nativo" />
+                <TextView style="@style/DexCardSubtitle" android:text="Diagnosticar e preparar o lançamento via ADB." />
+                <TextView style="@style/DexCardState" android:text="ENCONTRADO • PROTEGIDO" />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/btnInput" style="@style/DexActionCard">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_keyboard" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Rato e teclado" />
+                <TextView style="@style/DexCardSubtitle" android:text="Ver dispositivos de entrada e testar comandos." />
+                <TextView android:id="@+id/tvInputCardState" style="@style/DexCardState" android:text="A VERIFICAR" />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/btnWallpaper" style="@style/DexActionCard">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_palette" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Aparência" />
+                <TextView style="@style/DexCardSubtitle" android:text="Papel de parede e opções visuais do desktop." />
+                <TextView style="@style/DexCardState" android:text="EXPERIMENTAL" />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="INVESTIGAÇÃO"
+            android:textColor="@color/text_secondary"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <LinearLayout android:id="@+id/btnDiagnostics" style="@style/DexActionCard" android:layout_marginTop="10dp">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_diagnostics" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Diagnóstico DeX" />
+                <TextView style="@style/DexCardSubtitle" android:text="Firmware, componentes Samsung e compatibilidade." />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/btnScanner" style="@style/DexActionCard">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_scanner" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="DeX Scanner" />
+                <TextView style="@style/DexCardSubtitle" android:text="Análise automática de componentes, monitor, periféricos e ADB." />
+                <TextView style="@style/DexCardState" android:text="NOVO • V3.0" />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/btnAdvanced" style="@style/DexActionCard">
+            <FrameLayout style="@style/DexIconTile"><ImageView style="@style/DexCardIcon" android:src="@drawable/ic_tools" /></FrameLayout>
+            <LinearLayout style="@style/DexCardTextBlock">
+                <TextView style="@style/DexCardTitle" android:text="Ferramentas avançadas" />
+                <TextView style="@style/DexCardSubtitle" android:text="Explorar Activities para investigação técnica." />
+            </LinearLayout>
+            <ImageView style="@style/DexArrowIcon" android:src="@drawable/ic_arrow" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

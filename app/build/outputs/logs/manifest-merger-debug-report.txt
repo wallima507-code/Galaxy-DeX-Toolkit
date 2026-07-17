@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.databinding:viewbinding:8.7.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\612c6d7e6a4f1a261572b94415d45526\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5c7d56aeb75fa69299f5ed5f17608e88\workspace\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63af9d2582880c25cd00fa24d762dda0\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5b0ecb14fe436487ad284960b91adce9\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63e7aec6c180fea1590c45463f334b33\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\196a9a6ddc6cca6067d4867b21fd5305\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\949673162009204da558918b099c5328\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\fe8824fb232c69ac8fdca6f4047f7b8b\workspace\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e29da92bfba6d1e4a2b63901a0f845cb\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84c1eb7bc4699abf0a172c903d555aba\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9f1ea6e8a9dd6002eb997461b779c8ad\workspace\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5443a822c791bb5960ea00a86da7a917\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e64bb1c4fd54532539e64aca889c6e83\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\92d7fc996339ddca85bdbb824b82c026\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a845bb0c7c8bbc24302a11ca371f96a\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\27725e1597370df1e5785989a8bc38bf\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5e6ca71b72724d21f5b9d9247d6b4119\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ed672a4bccc0e0bc44646a12ea3eb7f4\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\20c6ceb8ab6d702cf3177dd0b2fa3ddb\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\61f12c2cd9e24526e4502db0ac332253\workspace\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8526340a76bfdf96d406e12c8bda643\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\bad0d37f3fcb11f9720d63234632e087\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\117bde51e9232dd09e6dd4ab1e4b7077\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\39bd95c706b416ad635d025274d571a3\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\1193e0302a267d006588e4df6d6258d5\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ae0a3edc719c3196efe7775fb43d0da8\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a9561eb92f34bf229cb8a1c3f37424f\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a264007a0ca3f46652eb93a6cc59f02a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\25afc474b21340c93906dde8c069f9bc\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a91096072261fbcbe8a720b50da943a\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8b8850b359b70148ab2ba754c1991b5\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\6beb3ab4e7b2dbb5661b3ceeffafb0a0\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7ccb4bd0ed21e8e0d043d2ef2e9b4bf5\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\10f98432832b0e6d9ff963dea988350c\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\d3e9fb401712d8adc6331ed9747e7887\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84776c985f3f95942f204d3004ae3fd0\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e197ea633dd16ad70160aff7bf4ca36f\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:3:5-72
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:3:22-69
+queries
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:4:5-9:15
+package#com.android.settings
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:5:9-56
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:5:18-53
+package#com.android.systemui
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:6:9-56
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:6:18-53
+package#com.samsung.android.smartmirroring
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:7:9-70
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:7:18-67
+intent#action:name:android.settings.CAST_SETTINGS
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:8:9-82
+action#android.settings.CAST_SETTINGS
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:8:17-73
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:8:25-70
+application
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:11:5-32:19
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5c7d56aeb75fa69299f5ed5f17608e88\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5c7d56aeb75fa69299f5ed5f17608e88\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63af9d2582880c25cd00fa24d762dda0\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63af9d2582880c25cd00fa24d762dda0\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\6beb3ab4e7b2dbb5661b3ceeffafb0a0\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\6beb3ab4e7b2dbb5661b3ceeffafb0a0\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:15:9-43
+	android:roundIcon
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:17:9-48
+activity#cv.wallima.a56toolkit.DexScannerActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:18:19-53
+activity#cv.wallima.a56toolkit.DexTouchpadActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:19:9-57
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:19:19-54
+activity#cv.wallima.a56toolkit.InputDevicesActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:20:19-55
+activity#cv.wallima.a56toolkit.WallpaperActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:21:19-52
+activity#cv.wallima.a56toolkit.ActivityExplorerActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:22:19-59
+activity#cv.wallima.a56toolkit.HiddenSettingsActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:23:19-57
+activity#cv.wallima.a56toolkit.DeviceInfoActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:24:19-53
+activity#cv.wallima.a56toolkit.DesktopToolsActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:25:9-58
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:25:19-55
+activity#cv.wallima.a56toolkit.MainActivity
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:exported
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:26:48-71
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\612c6d7e6a4f1a261572b94415d45526\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\612c6d7e6a4f1a261572b94415d45526\workspace\transformed\viewbinding-8.7.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5c7d56aeb75fa69299f5ed5f17608e88\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5c7d56aeb75fa69299f5ed5f17608e88\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63af9d2582880c25cd00fa24d762dda0\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63af9d2582880c25cd00fa24d762dda0\workspace\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5b0ecb14fe436487ad284960b91adce9\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5b0ecb14fe436487ad284960b91adce9\workspace\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63e7aec6c180fea1590c45463f334b33\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\63e7aec6c180fea1590c45463f334b33\workspace\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\196a9a6ddc6cca6067d4867b21fd5305\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\196a9a6ddc6cca6067d4867b21fd5305\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\949673162009204da558918b099c5328\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\949673162009204da558918b099c5328\workspace\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\fe8824fb232c69ac8fdca6f4047f7b8b\workspace\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\fe8824fb232c69ac8fdca6f4047f7b8b\workspace\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e29da92bfba6d1e4a2b63901a0f845cb\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e29da92bfba6d1e4a2b63901a0f845cb\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84c1eb7bc4699abf0a172c903d555aba\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84c1eb7bc4699abf0a172c903d555aba\workspace\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9f1ea6e8a9dd6002eb997461b779c8ad\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9f1ea6e8a9dd6002eb997461b779c8ad\workspace\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5443a822c791bb5960ea00a86da7a917\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5443a822c791bb5960ea00a86da7a917\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e64bb1c4fd54532539e64aca889c6e83\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e64bb1c4fd54532539e64aca889c6e83\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\92d7fc996339ddca85bdbb824b82c026\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\92d7fc996339ddca85bdbb824b82c026\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a845bb0c7c8bbc24302a11ca371f96a\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a845bb0c7c8bbc24302a11ca371f96a\workspace\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\27725e1597370df1e5785989a8bc38bf\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\27725e1597370df1e5785989a8bc38bf\workspace\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5e6ca71b72724d21f5b9d9247d6b4119\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\5e6ca71b72724d21f5b9d9247d6b4119\workspace\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ed672a4bccc0e0bc44646a12ea3eb7f4\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ed672a4bccc0e0bc44646a12ea3eb7f4\workspace\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\20c6ceb8ab6d702cf3177dd0b2fa3ddb\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\20c6ceb8ab6d702cf3177dd0b2fa3ddb\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\61f12c2cd9e24526e4502db0ac332253\workspace\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\61f12c2cd9e24526e4502db0ac332253\workspace\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8526340a76bfdf96d406e12c8bda643\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8526340a76bfdf96d406e12c8bda643\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\bad0d37f3fcb11f9720d63234632e087\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\bad0d37f3fcb11f9720d63234632e087\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\117bde51e9232dd09e6dd4ab1e4b7077\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\117bde51e9232dd09e6dd4ab1e4b7077\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\39bd95c706b416ad635d025274d571a3\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\39bd95c706b416ad635d025274d571a3\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\1193e0302a267d006588e4df6d6258d5\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\1193e0302a267d006588e4df6d6258d5\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ae0a3edc719c3196efe7775fb43d0da8\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\ae0a3edc719c3196efe7775fb43d0da8\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a9561eb92f34bf229cb8a1c3f37424f\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a9561eb92f34bf229cb8a1c3f37424f\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a264007a0ca3f46652eb93a6cc59f02a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a264007a0ca3f46652eb93a6cc59f02a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\25afc474b21340c93906dde8c069f9bc\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\25afc474b21340c93906dde8c069f9bc\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a91096072261fbcbe8a720b50da943a\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7a91096072261fbcbe8a720b50da943a\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8b8850b359b70148ab2ba754c1991b5\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\c8b8850b359b70148ab2ba754c1991b5\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\6beb3ab4e7b2dbb5661b3ceeffafb0a0\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\6beb3ab4e7b2dbb5661b3ceeffafb0a0\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7ccb4bd0ed21e8e0d043d2ef2e9b4bf5\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\7ccb4bd0ed21e8e0d043d2ef2e9b4bf5\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\10f98432832b0e6d9ff963dea988350c\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\10f98432832b0e6d9ff963dea988350c\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\d3e9fb401712d8adc6331ed9747e7887\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\d3e9fb401712d8adc6331ed9747e7887\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84776c985f3f95942f204d3004ae3fd0\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\84776c985f3f95942f204d3004ae3fd0\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e197ea633dd16ad70160aff7bf4ca36f\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\e197ea633dd16ad70160aff7bf4ca36f\workspace\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\b5a60d412ae5353e22032fed4834d4df\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a00944bbf2f8b275143b739ebff364e4\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\0d3aaf1d551ddd92308ad36ddd631841\workspace\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#cv.wallima.a56toolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#cv.wallima.a56toolkit.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\a99a9b8a58d9a0e2b0c96abad6a5b21d\workspace\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\WAL LIMA\.gradle\caches\9.3.0\transforms\9d760c6d27409db00e859b947622d6fd\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

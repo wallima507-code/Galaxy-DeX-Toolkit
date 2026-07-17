@@ -1,0 +1,18 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/card_pressed" />
+            <corners android:radius="24dp" />
+            <stroke android:width="1dp" android:color="#3A5B84" />
+            <padding android:left="18dp" android:top="18dp" android:right="18dp" android:bottom="18dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient android:angle="0" android:startColor="#14243B" android:endColor="#112037" />
+            <corners android:radius="24dp" />
+            <stroke android:width="1dp" android:color="#29405E" />
+            <padding android:left="18dp" android:top="18dp" android:right="18dp" android:bottom="18dp" />
+        </shape>
+    </item>
+</selector>

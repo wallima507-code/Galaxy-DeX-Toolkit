@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_gradient"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="20dp"
+        android:paddingTop="28dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="32dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desktop e DeX"
+            android:textColor="@color/text_primary"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Controlos essenciais para iniciar, personalizar e diagnosticar o DeX oculto."
+            android:textColor="@color/text_secondary"
+            android:textSize="16sp"
+            android:lineSpacingExtra="3dp" />
+
+        <TextView
+            style="@style/SectionLabel"
+            android:text="SESSÃO DEX" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardLaunchDex"
+            style="@style/DexPrimaryCard">
+
+            <LinearLayout
+                style="@style/DexCardContent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    style="@style/DexIconTile"
+                    android:src="@drawable/ic_desktop"
+                    android:contentDescription="Iniciar DeX" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="16dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/DexCardTitle"
+                        android:text="Iniciar / abrir Desktop DeX" />
+
+                    <TextView
+                        style="@style/DexCardSubtitle"
+                        android:text="Abrir a sessão desktop e o painel principal do DeX." />
+
+                    <TextView
+                        style="@style/DexCardStatus"
+                        android:text="PRONTO" />
+                </LinearLayout>
+
+                <ImageView
+                    style="@style/DexArrow"
+                    android:src="@drawable/ic_arrow"
+                    android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardDexSettings"
+                style="@style/DexSmallCard"
+                android:layout_marginEnd="6dp">
+
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Definições DeX" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Modo, interface e preferências" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardSmartView"
+                style="@style/DexSmallCard"
+                android:layout_marginStart="6dp">
+
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Smart View" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Transmitir o ecrã para a TV" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+
+        <TextView
+            style="@style/SectionLabel"
+            android:text="CONTROLO" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardTouchpad"
+            style="@style/DexCard">
+            <LinearLayout style="@style/DexCardContent" android:orientation="horizontal">
+                <ImageView style="@style/DexIconTile" android:src="@drawable/ic_touchpad" android:contentDescription="Touchpad" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="16dp" android:orientation="vertical">
+                    <TextView style="@style/DexCardTitle" android:text="Touchpad nativo" />
+                    <TextView style="@style/DexCardSubtitle" android:text="Abrir, diagnosticar e preparar o lançamento via ADB." />
+                    <TextView style="@style/DexCardStatus" android:text="ENCONTRADO • PROTEGIDO" />
+                </LinearLayout>
+                <ImageView style="@style/DexArrow" android:src="@drawable/ic_arrow" android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardInput"
+            style="@style/DexCard">
+            <LinearLayout style="@style/DexCardContent" android:orientation="horizontal">
+                <ImageView style="@style/DexIconTile" android:src="@drawable/ic_keyboard" android:contentDescription="Entrada" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="16dp" android:orientation="vertical">
+                    <TextView style="@style/DexCardTitle" android:text="Rato e teclado" />
+                    <TextView style="@style/DexCardSubtitle" android:text="Ver dispositivos ligados e testar botões, roda e teclas." />
+                    <TextView style="@style/DexCardStatus" android:text="DIAGNÓSTICO DE ENTRADA" />
+                </LinearLayout>
+                <ImageView style="@style/DexArrow" android:src="@drawable/ic_arrow" android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardGestures"
+            style="@style/DexCard">
+            <LinearLayout style="@style/DexCardContent" android:orientation="horizontal">
+                <ImageView style="@style/DexIconTile" android:src="@drawable/ic_touchpad" android:contentDescription="Gestos" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="16dp" android:orientation="vertical">
+                    <TextView style="@style/DexCardTitle" android:text="Gestos do touchpad" />
+                    <TextView style="@style/DexCardSubtitle" android:text="Abrir as definições ocultas de gestos do DeX." />
+                </LinearLayout>
+                <ImageView style="@style/DexArrow" android:src="@drawable/ic_arrow" android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <TextView
+            style="@style/SectionLabel"
+            android:text="DESKTOP" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardWallpaper"
+            style="@style/DexCard">
+            <LinearLayout style="@style/DexCardContent" android:orientation="horizontal">
+                <ImageView style="@style/DexIconTile" android:src="@drawable/ic_palette" android:contentDescription="Aparência" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="16dp" android:orientation="vertical">
+                    <TextView style="@style/DexCardTitle" android:text="Aparência e papel de parede" />
+                    <TextView style="@style/DexCardSubtitle" android:text="Testar o wallpaper e abrir definições visuais do desktop." />
+                </LinearLayout>
+                <ImageView style="@style/DexArrow" android:src="@drawable/ic_arrow" android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardKeyboard"
+                style="@style/DexSmallCard"
+                android:layout_marginEnd="6dp">
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Teclado DeX" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Atalhos e preferências" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardMouse"
+                style="@style/DexSmallCard"
+                android:layout_marginStart="6dp">
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Rato DeX" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Ponteiro e botões" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+
+        <TextView
+            style="@style/SectionLabel"
+            android:text="LIGAÇÕES" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardBluetooth"
+                style="@style/DexSmallCard"
+                android:layout_marginEnd="6dp">
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Bluetooth" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Emparelhar periféricos" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardPhysicalKeyboard"
+                style="@style/DexSmallCard"
+                android:layout_marginStart="6dp">
+                <LinearLayout style="@style/DexSmallCardContent">
+                    <TextView style="@style/DexSmallCardTitle" android:text="Teclado físico" />
+                    <TextView style="@style/DexSmallCardSubtitle" android:text="Layout e idioma" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+
+        <TextView
+            style="@style/SectionLabel"
+            android:text="DIAGNÓSTICO" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardDiagnostics"
+            style="@style/DexCard">
+            <LinearLayout style="@style/DexCardContent" android:orientation="horizontal">
+                <ImageView style="@style/DexIconTile" android:src="@drawable/ic_diagnostics" android:contentDescription="Diagnóstico" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="16dp" android:orientation="vertical">
+                    <TextView style="@style/DexCardTitle" android:text="Compatibilidade DeX" />
+                    <TextView style="@style/DexCardSubtitle" android:text="Consultar Android, One UI, componentes e informações técnicas." />
+                    <TextView style="@style/DexCardStatus" android:text="RELATÓRIO TÉCNICO" />
+                </LinearLayout>
+                <ImageView style="@style/DexArrow" android:src="@drawable/ic_arrow" android:contentDescription="Abrir" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+    </LinearLayout>
+</ScrollView>

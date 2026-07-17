@@ -1,0 +1,4 @@
+cv.wallima.a56toolkit.test.app-androidTest-0 C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\build\generated\res\resValues\androidTest\debug
+cv.wallima.a56toolkit.test.app-mergeDebugAndroidTestResources-1 C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+cv.wallima.a56toolkit.test.app-mergeDebugAndroidTestResources-2 C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+cv.wallima.a56toolkit.test.app-debugAndroidTest-3 C:\Users\WAL LIMA\Desktop\Galaxy-DeX-Toolkit-v3.0\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

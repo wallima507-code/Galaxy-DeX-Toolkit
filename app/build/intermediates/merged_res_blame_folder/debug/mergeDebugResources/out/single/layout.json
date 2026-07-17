@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_input_devices.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_input_devices.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_wallpaper.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_wallpaper.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_simple_list.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_simple_list.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_device_info.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_device_info.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_dex_scanner.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_dex_scanner.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-mergeDebugResources-30:/layout/activity_desktop_tools.xml",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_desktop_tools.xml"
+    }
+]

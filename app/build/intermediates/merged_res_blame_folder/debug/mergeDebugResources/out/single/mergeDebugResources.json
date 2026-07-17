@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_touchpad.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_touchpad.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_monitor_cursor.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_monitor_cursor.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_dex_scanner.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_dex_scanner.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable-nodpi_app_logo_splash.png.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable-nodpi/app_logo_splash.png"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_desktop_tools.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_desktop_tools.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_desktop.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_desktop.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_status_pill.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/status_pill.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_palette.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_home_gradient.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/home_gradient.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_input_devices.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_input_devices.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_icon_tile.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/icon_tile.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable-nodpi_app_logo.png.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable-nodpi/app_logo.png"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_wallpaper.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_wallpaper.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_simple_list.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_simple_list.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_card_bg.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_action_card_bg.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/action_card_bg.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_keyboard.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_keyboard.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_arrow.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/layout_activity_device_info.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/layout/activity_device_info.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_diagnostics.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_diagnostics.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_tools.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_tools.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_launcher.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "cv.wallima.a56toolkit.app-debug-31:/drawable_ic_scanner.xml.flat",
+        "source": "cv.wallima.a56toolkit.app-main-33:/drawable/ic_scanner.xml"
+    }
+]
